@@ -1,7 +1,7 @@
 # learning-django-pyshop
 
 > Learning project. Built while following Mosh Hamedani's Python tutorial
-> (Code with Mosh), then adapted by me for current versions.
+> (Programming with Mosh), then adapted by me for current versions.
 
 A small Django web app that shows products from a database in a responsive grid.
 
